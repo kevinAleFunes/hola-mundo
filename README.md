@@ -7,3 +7,6 @@ Hello
 My name is Kevin
 I like :sports:, :pizza:, :soccer:
 I not like :basketball:
+Hagregamos 
+unas lineas
+de texto
